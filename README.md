@@ -28,7 +28,7 @@ A `predict_message()` function takes a string and returns a list:
 
 Example:
 predict_message("You have won $1000! Call now!")  
-# Output: [0.912, 'spam']
+Output: [0.912, 'spam']
 
 🚀 Getting Started
 Clone the repo
